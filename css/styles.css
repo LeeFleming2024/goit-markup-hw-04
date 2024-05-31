@@ -310,6 +310,7 @@ section {
 }
 
 /* section three */
+
 .our-team {
     background: #f4f4fd;
 }
@@ -416,7 +417,9 @@ section {
 
 }
 
-.img-team {}
+.img-team {
+
+}
 
 .name-team {
 
